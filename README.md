@@ -1,2 +1,2 @@
-# Application-Manager to manage my apllications every day
+# Application-Manager to manage my applications every day
 
